@@ -4,5 +4,5 @@ If there is a problem opening the notebook, please go to https://nbviewer.jupyte
 
 Visualizations:
 - jointplots
-- hisplot multiple overlay (HIGH importance, custom format)
+- histplot multiple overlay (HIGH importance, custom format)
 - scatter
